@@ -87,7 +87,6 @@ int main () {
   cout << "Sua idade eh: " << idade << endl;
   cout << "Sua altura eh: " << altura << endl;
   cout << "Sabe jogar basquete? " << jogaBasquete << endl;
-
 }
 ```
 
