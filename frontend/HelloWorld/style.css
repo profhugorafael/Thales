@@ -1,0 +1,22 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  font-weight: normal;
+  font-family: 'Inter', sans-serif;
+}
+
+#textoBoasVindas {
+  color: #7D7987; 
+}
+
+.destaque {
+  color: #FF9900;
+}
+
+.negrito {
+  font-weight: bold;
+}
+
